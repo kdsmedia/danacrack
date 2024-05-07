@@ -1,2 +1,17 @@
-# perusak
-Destroying victims phone by using number telephone
+# Crack Dana,OvO,Gopay,ShopeePay
+Destroying victims wallet by using number telephone
+
+# Installation
+
+```
+
+pkg update
+pkg upgrade
+pkg install python2
+pkg install git
+git clone https://github.com/
+cd danacrack
+ls
+python2 dana.py
+
+```
